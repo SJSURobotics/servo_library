@@ -1,0 +1,13 @@
+MaestroServo	KEYWORD1
+
+sendHeader	KEYWORD2
+setAngle	KEYWORD2
+setSpeed	KEYWORD2
+setAcceleration	KEYWORD2
+getAngle	KEYWORD2
+getInt	KEYWORD2
+connect	KEYWORD2
+isConnected KEYWORD2
+selectProtocol	KEYWORD2
+send	KEYWORD2
+goHome	KEYWORD2
